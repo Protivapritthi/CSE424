@@ -1,0 +1,23 @@
+Link to YouTube video:
+
+https://www.youtube.com/watch?v=cXhEgz8hS5A&feature=youtu.be
+
+PDF: 
+http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
+
+Name, Author, Edition, year, and publisher of the Book:
+Bishop - Pattern Recognition And Machine Learning  
+2006
+
+
+
+Group Number:
+20
+
+Group Members:
+4
+18101382 - Protiva Das
+22266005 - Fairooz Afnad Faiza
+22266004 - Fatima Tabassum
+22266006 - Rafi Uddin Sadik
+
